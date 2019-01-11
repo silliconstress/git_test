@@ -1,0 +1,1 @@
+This is silliconstress first git project.
